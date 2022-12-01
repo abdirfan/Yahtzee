@@ -1,0 +1,3 @@
+﻿  Yahtzee!.cpp
+C:\Users\abdir\source\repos\Yahtzee!\Yahtzee!.cpp(581,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Yahtzee!.vcxproj -> C:\Users\abdir\source\repos\Yahtzee!\x64\Debug\Yahtzee!.exe
